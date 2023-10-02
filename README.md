@@ -47,7 +47,7 @@ Reducir la cantidad de accidentes mortales de motocicletas en 7%
 
 Reducir la cantidad de accidentes viales en la COMUNA1 en 20%
 
-# Tasa de Homicidios semestral
+# Tasa de Homicidios
 Se realizaron medidas calculadas semestrales en cada año para poder comparar el avance entre el segundo semestre VS el primero, con el objetivo de observar el aumento/disminución del mismo
 Tasa de accidentes mortales en motocicletas
 Se realizó una medida calculada de manera anual únicamente tomando en cuenta los accidentes de la hoja de VICTIMAS donde la categoría VICTIMA es MOTO, comparando dichas medidas entre 2 años consecutivos (Año presente vs Año anterior) con el objetivo de medir la tasa de crecimiento/descenso del mismo.
