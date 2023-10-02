@@ -21,8 +21,9 @@ Iniciamos observando la informacion en las hojas presentes en el archivo homicid
 
 Observamos entonces la distribución de los datos en el siguiente mapa de calor:
 
+![Captura de pan11talla (297)](https://github.com/nicomoya321/siniestro1/assets/104875334/e4c48ca3-4f8d-41ad-a993-4052b25fb9de)
 
-![image](https://github.com/nicomoya321/siniestro1/assets/104875334/7777c653-2f3f-4305-a500-d09f2c7b2e1f)
+
 
 Posterior a la lectura de los datos procedemos a analizar en primer lugar la hoja de HECHOS, donde primero observaremos la distribución de los datos alrededor de los años en base al tipo de locación donde ocurrió el suceso. Para este y las consecuentes observaciones usaremos filtros en nuestas hojas ahora tomadas como dataframe en Jupyter Notebook de la siguiente manera:
 
