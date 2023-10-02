@@ -14,7 +14,7 @@ y si observamos la distribución de accidentes en todos los años, pero en base 
 
 ![image](https://github.com/nicomoya321/siniestro1/assets/104875334/55f06e62-d867-45e0-8280-ddbd5f2be6f2)
 
-# LA COMUNA 1 ES LA QUE PRESENTA MAYOR CANTIDAD DE VICTIMAS
+# la mayor cantidad de victimas proviene de la comuna 1
 Ahora veamos la distribución de la hoja de HECHOS en relación al medio de trasnporte por el cual se desplazaba la victima, en el cual obtenemos la siguiente gráfica:
 
 
