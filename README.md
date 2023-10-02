@@ -21,7 +21,8 @@ Iniciamos observando la informacion en las hojas presentes en el archivo homicid
 
 Observamos entonces la distribución de los datos en el siguiente mapa de calor:
 
-![Captura de pan11talla (297)](https://github.com/nicomoya321/siniestro1/assets/104875334/e4c48ca3-4f8d-41ad-a993-4052b25fb9de)
+
+![Captura de pan11talla (297)](https://github.com/nicomoya321/siniestro1/assets/104875334/8ef84eb3-03e8-4ead-b2e1-86d6b37bd596)
 
 
 
