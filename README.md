@@ -59,3 +59,5 @@ https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales
 
 # complementarios
 https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales
+# linkedn
+https://www.linkedin.com/in/manuel-nicolas-moya-3189aa1b1/
